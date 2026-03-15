@@ -1,4 +1,4 @@
-# [CJ Cloud Wave 7기] 올리브영 인프라 구축 프로젝트
+# [CJ OliveNetworks Cloud Wave 7기] 올리브영 인프라 구축 프로젝트
 
 <p align="center">
 <img alt="Image" src="../assets/readme banner.png" />
